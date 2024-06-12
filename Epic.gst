@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="8f10-ee06-8dc1-beb6" name="Epic Armageddon" revision="38" battleScribeVersion="2.03" authorName="" authorContact="" authorUrl="http://battlescribedata.appspot.com/#/repo/wh40k-epic-armageddon" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="" name="TEST Epic Armageddon" revision="39" battleScribeVersion="2.03" authorName="Ben" authorContact="" authorUrl="" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <readme>Our Repo describes over 333 factions, forces, chapters &amp; regiments (from the 400-plus currently available) as well as incorporating supplementary features like Riot or Minigeddon.
 
 Groups
