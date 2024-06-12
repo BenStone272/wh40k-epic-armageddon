@@ -1613,10 +1613,10 @@ Termite: 2 infantry units without Jump Packs or Mounted. Mole Mortars, Rapiers, 
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">5+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">4+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Doomsday Cannon&lt;BR&gt;&lt;BR&gt;4x Rapid Fire Battle Cannon&lt;BR&gt;&lt;BR&gt;Thunderer&lt;BR&gt;&lt;BR&gt;4x Plasma Missiles</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">90cm&lt;BR&gt;&lt;BR&gt;75cm&lt;BR&gt;&lt;BR&gt;30cm&lt;BR&gt;&lt;BR&gt;45cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">3BP&lt;BR&gt;&lt;BR&gt;2x AP4+/AT4+&lt;BR&gt;&lt;BR&gt;AP3+/AT4+&lt;BR&gt;&lt;BR&gt;2BP</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Fixed Forward Arc, Directed, Macro-weapon&lt;BR&gt;&lt;BR&gt;Forward Arc&lt;BR&gt;&lt;BR&gt;Fixed Forward Arc, Ignore Cover&lt;BR&gt;&lt;BR&gt;Forward Arc, Indirect fire, One Shot</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Doomsday Cannon<BR>;4x Rapid Fire Battle Cannon<BR>;Thunderer<BR>;4x Plasma Missiles</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">90cm<BR>;75cm<BR>;30cm<BR>;45cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">3BP<BR>;2x AP4+/AT4+<BR>;AP3+/AT4+<BR>;2BP</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Fixed Forward Arc, Directed, Macro-weapon<BR>;Forward Arc<BR>;Fixed Forward Arc, Ignore Cover<BR>;Forward Arc, Indirect fire, One Shot</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Reinforced Armour, Thick Rear Armour, 6 Sh</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">5</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Colossus</characteristic>
@@ -1629,10 +1629,10 @@ Termite: 2 infantry units without Jump Packs or Mounted. Mole Mortars, Rapiers, 
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">5+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">4+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Hellfury Cannon&lt;BR&gt;&lt;BR&gt;Rapid Fire Battle Cannon&lt;BR&gt;&lt;BR&gt;Melta Cannon&lt;BR&gt;and&lt;BR&gt;&lt;BR&gt;6x Doomstorm Missile</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">90cm&lt;BR&gt;&lt;BR&gt;75cm&lt;BR&gt;&lt;BR&gt;30cm&lt;BR&gt;and (15cm)&lt;BR&gt;&lt;BR&gt;45cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">MW2+&lt;BR&gt;&lt;BR&gt;2x AP4+/AT4+&lt;BR&gt;&lt;BR&gt;MW2+&lt;BR&gt;and Small Arms&lt;BR&gt;&lt;BR&gt;1BP</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Fixed Forward Arc, Titan Killer (D6+1)&lt;BR&gt;&lt;BR&gt;-&lt;BR&gt;&lt;BR&gt;Fixed Forward Arc, Titan Killer (D3)&lt;BR&gt;and Titan Killer (D6), +1A&lt;BR&gt;&lt;BR&gt;Forward Arc, Indirect Fire, One Shot</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Hellfury Cannon<BR>;Rapid Fire Battle Cannon<BR>;Melta Cannon&lt;BR&gt;and<BR>;6x Doomstorm Missile</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">90cm<BR>;75cm<BR>;30cm&lt;BR&gt;and (15cm)<BR>;45cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">MW2+<BR>;2x AP4+/AT4+<BR>;MW2+&lt;BR&gt;and Small Arms<BR>;1BP</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Fixed Forward Arc, Titan Killer (D6+1)<BR>;-<BR>;Fixed Forward Arc, Titan Killer (D3)&lt;BR&gt;and Titan Killer (D6), +1A<BR>;Forward Arc, Indirect Fire, One Shot</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Reinforced Armour, Thick Rear Armour, 5 Sh</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">5</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Cyclops</characteristic>
@@ -1689,10 +1689,10 @@ Termite: 2 infantry units without Jump Packs or Mounted. Mole Mortars, Rapiers, 
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">5+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">6+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Bolters&lt;BR&gt;&lt;BR&gt;Power Lance</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">Small Arms&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">(15cm)&lt;BR&gt;&lt;BR&gt;Assault Weapons</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-&lt;BR&gt;&lt;BR&gt;First Strike, Macro-weapon</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Bolters<BR>;Power Lance</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">Small Arms<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">(15cm)<BR>;Assault Weapons</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-<BR>;First Strike, Macro-weapon</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Commander, Leader</characteristic>
       </characteristics>
     </profile>
@@ -1731,10 +1731,10 @@ Termite: 2 infantry units without Jump Packs or Mounted. Mole Mortars, Rapiers, 
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">5+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">4+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Doomsday Cannon&lt;BR&gt;&lt;BR&gt;Rapid Fire Battle Cannon&lt;BR&gt;&lt;BR&gt;Rapid Fire Battle Cannon</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">90cm&lt;BR&gt;&lt;BR&gt;75cm&lt;BR&gt;&lt;BR&gt;75cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">3BP&lt;BR&gt;&lt;BR&gt;2x AP4+/AT4+&lt;BR&gt;&lt;BR&gt;2x AP4+/AT4+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Fixed Forward Arc, Directed, Macro-weapon&lt;BR&gt;&lt;BR&gt;-&lt;BR&gt;&lt;BR&gt;Fixed Forward Arc</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Doomsday Cannon<BR>;Rapid Fire Battle Cannon<BR>;Rapid Fire Battle Cannon</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">90cm<BR>;75cm<BR>;75cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">3BP<BR>;2x AP4+/AT4+<BR>;2x AP4+/AT4+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Fixed Forward Arc, Directed, Macro-weapon<BR>;-<BR>;Fixed Forward Arc</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Land Train, Reinforced Armour, Thick Rear Armour, 2 Sh</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">2</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Land Train</characteristic>
@@ -1747,10 +1747,10 @@ Termite: 2 infantry units without Jump Packs or Mounted. Mole Mortars, Rapiers, 
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">5+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">4+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Doomsday Cannon&lt;BR&gt;&lt;BR&gt;Battle Cannon&lt;BR&gt;&lt;BR&gt;3x Twin Lascannon&lt;BR&gt;&lt;BR&gt;3x Twin Lascannon</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">90cm&lt;BR&gt;&lt;BR&gt;75cm&lt;BR&gt;&lt;BR&gt;45cm&lt;BR&gt;&lt;BR&gt;45cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">3BP&lt;BR&gt;&lt;BR&gt;AP4+/AT4+&lt;BR&gt;&lt;BR&gt;AT4+&lt;BR&gt;&lt;BR&gt;AT4+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Fixed Forward Arc, Directed, Macro-weapon&lt;BR&gt;&lt;BR&gt;-&lt;BR&gt;&lt;BR&gt;Left Arc&lt;BR&gt;&lt;BR&gt;Right Arc</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Doomsday Cannon<BR>;Battle Cannon<BR>;3x Twin Lascannon<BR>;3x Twin Lascannon</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">90cm<BR>;75cm<BR>;45cm<BR>;45cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">3BP<BR>;AP4+/AT4+<BR>;AT4+<BR>;AT4+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Fixed Forward Arc, Directed, Macro-weapon<BR>;-<BR>;Left Arc<BR>;Right Arc</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Reinforced Armour, Thick Rear Armour, Transport, 4 Sh</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">5</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Leviathan</characteristic>
@@ -1807,10 +1807,10 @@ Termite: 2 infantry units without Jump Packs or Mounted. Mole Mortars, Rapiers, 
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">6+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">4+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">2x Battle Cannon&lt;BR&gt;&lt;BR&gt;Battle Cannon&lt;BR&gt;&lt;BR&gt;Battle Cannon&lt;BR&gt;&lt;BR&gt;2x Battle Cannon&lt;BR&gt;&lt;BR&gt;2x Twin Autocannon&lt;BR&gt;&lt;BR&gt;Melta Bombs</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">75cm&lt;BR&gt;&lt;BR&gt;75cm&lt;BR&gt;&lt;BR&gt;75cm&lt;BR&gt;&lt;BR&gt;75cm&lt;BR&gt;&lt;BR&gt;45cm&lt;BR&gt;&lt;BR&gt;(15cm)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP4+/AT4+&lt;BR&gt;&lt;BR&gt;AP4+/AT4+&lt;BR&gt;&lt;BR&gt;AP4+/AT4+&lt;BR&gt;&lt;BR&gt;AP4+/AT4+&lt;BR&gt;&lt;BR&gt;AP4+/AT5+&lt;BR&gt;&lt;BR&gt;Small Arms</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Forward Arc&lt;BR&gt;&lt;BR&gt;Left Arc&lt;BR&gt;&lt;BR&gt;Right Arc&lt;BR&gt;&lt;BR&gt;Rear Arc&lt;BR&gt;&lt;BR&gt;Fixed Forward Arc&lt;BR&gt;&lt;BR&gt;Macro-weapon</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">2x Battle Cannon<BR>;Battle Cannon<BR>;Battle Cannon<BR>;2x Battle Cannon<BR>;2x Twin Autocannon<BR>;Melta Bombs</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">75cm<BR>;75cm<BR>;75cm<BR>;75cm<BR>;45cm<BR>;(15cm)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP4+/AT4+<BR>;AP4+/AT4+<BR>;AP4+/AT4+<BR>;AP4+/AT4+<BR>;AP4+/AT5+<BR>;Small Arms</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Forward Arc<BR>;Left Arc<BR>;Right Arc<BR>;Rear Arc<BR>;Fixed Forward Arc<BR>;Macro-weapon</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Invulnerable Save, Reinforced Armour, Support Craft</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">3</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Large Explosion</characteristic>
@@ -1851,10 +1851,10 @@ Termite: 2 infantry units without Jump Packs or Mounted. Mole Mortars, Rapiers, 
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">5+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Autocannon&lt;BR&gt;&lt;BR&gt;Heavy Bolter&lt;BR&gt;&lt;BR&gt;Power Fist</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm&lt;BR&gt;&lt;BR&gt;30cm&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP5+/AT6+&lt;BR&gt;&lt;BR&gt;AP5+&lt;BR&gt;&lt;BR&gt;Assault Weapons</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-&lt;BR&gt;&lt;BR&gt;-&lt;BR&gt;&lt;BR&gt;Macro-weapon, +1A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Autocannon<BR>;Heavy Bolter<BR>;Power Fist</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm<BR>;30cm<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP5+/AT6+<BR>;AP5+<BR>;Assault Weapons</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-<BR>;-<BR>;Macro-weapon, +1A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Walker</characteristic>
       </characteristics>
     </profile>
@@ -1893,9 +1893,9 @@ Termite: 2 infantry units without Jump Packs or Mounted. Mole Mortars, Rapiers, 
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">6+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">6+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">4+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Missile launcher&lt;BR&gt;&lt;BR&gt;2x Twin Heavy Bolters</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm&lt;BR&gt;&lt;BR&gt;30cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP5+/AT6+&lt;BR&gt;&lt;BR&gt;AP4+</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Missile launcher<BR>;2x Twin Heavy Bolters</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm<BR>;30cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP5+/AT6+<BR>;AP4+</characteristic>
         <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a"/>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7"/>
       </characteristics>
@@ -1907,10 +1907,10 @@ Termite: 2 infantry units without Jump Packs or Mounted. Mole Mortars, Rapiers, 
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">4+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Bolters&lt;BR&gt;&lt;BR&gt;Power Weapons</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms&lt;BR&gt;&lt;BR&gt;Assault Weapons</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-&lt;BR&gt;&lt;BR&gt;Macro-weapon, +1A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Bolters<BR>;Power Weapons</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms<BR>;Assault Weapons</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-<BR>;Macro-weapon, +1A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Commander, Inspiring, Leader, Reinforced Armour, Thick Rear Armour</characteristic>
       </characteristics>
     </profile>
@@ -1921,9 +1921,9 @@ Termite: 2 infantry units without Jump Packs or Mounted. Mole Mortars, Rapiers, 
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">6+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">5+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Lasguns&lt;BR&gt;&lt;BR&gt;Missile Launcher</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)&lt;BR&gt;&lt;BR&gt;45cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms&lt;BR&gt;&lt;BR&gt;AP5+/AT6+</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Lasguns<BR>;Missile Launcher</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)<BR>;45cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms<BR>;AP5+/AT6+</characteristic>
         <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a"/>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">One unit in every two has a Missile Launcher</characteristic>
       </characteristics>
@@ -1949,10 +1949,10 @@ Termite: 2 infantry units without Jump Packs or Mounted. Mole Mortars, Rapiers, 
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">5+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Heavy Bolter&lt;BR&gt;&lt;BR&gt;Powerfist&lt;BR&gt;&lt;BR&gt;Multi-melta&lt;BR&gt;and</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">30cm&lt;BR&gt;&lt;BR&gt;(contact)&lt;BR&gt;&lt;BR&gt;15cm&lt;BR&gt;and (15cm)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP5+&lt;BR&gt;&lt;BR&gt;Assault Weapons&lt;BR&gt;&lt;BR&gt;MW5+&lt;BR&gt;and Small Arms</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-&lt;BR&gt;&lt;BR&gt;Macro-weapon, +1A&lt;BR&gt;&lt;BR&gt;-&lt;BR&gt;and Macro-weapon</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Heavy Bolter<BR>;Powerfist<BR>;Multi-melta&lt;BR&gt;and</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">30cm<BR>;(contact)<BR>;15cm&lt;BR&gt;and (15cm)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP5+<BR>;Assault Weapons<BR>;MW5+&lt;BR&gt;and Small Arms</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-<BR>;Macro-weapon, +1A<BR>;-&lt;BR&gt;and Macro-weapon</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Walker</characteristic>
       </characteristics>
     </profile>
@@ -1963,9 +1963,9 @@ Termite: 2 infantry units without Jump Packs or Mounted. Mole Mortars, Rapiers, 
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">6+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">4+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Stub Battle Cannon&lt;BR&gt;&lt;BR&gt;Rapid Fire Autocannon</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm&lt;BR&gt;&lt;BR&gt;45cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP4+/AT4+&lt;BR&gt;&lt;BR&gt;2x AP5+/AT6+</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Stub Battle Cannon<BR>;Rapid Fire Autocannon</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm<BR>;45cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP4+/AT4+<BR>;2x AP5+/AT6+</characteristic>
         <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a"/>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Scout, Skimmer</characteristic>
       </characteristics>
@@ -1977,9 +1977,9 @@ Termite: 2 infantry units without Jump Packs or Mounted. Mole Mortars, Rapiers, 
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">6+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">4+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Stub Battle Cannon&lt;BR&gt;&lt;BR&gt;Rapid Fire Autocannon</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm&lt;BR&gt;&lt;BR&gt;45cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP4+/AT4+&lt;BR&gt;&lt;BR&gt;2x AP5+/AT6+</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Stub Battle Cannon<BR>;Rapid Fire Autocannon</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm<BR>;45cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP4+/AT4+<BR>;2x AP5+/AT6+</characteristic>
         <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a"/>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Scout, Spotter, Support Craft</characteristic>
       </characteristics>
@@ -1991,10 +1991,10 @@ Termite: 2 infantry units without Jump Packs or Mounted. Mole Mortars, Rapiers, 
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">6+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Battlehammer Rockets&lt;BR&gt;&lt;BR&gt;Multi-melta&lt;BR&gt;and</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">15cm&lt;BR&gt;&lt;BR&gt;15cm&lt;BR&gt;and (15cm)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">1BP&lt;BR&gt;&lt;BR&gt;MW5+&lt;BR&gt;and Small Arms</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-&lt;BR&gt;&lt;BR&gt;-&lt;BR&gt;and Maco-weapon</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Battlehammer Rockets<BR>;Multi-melta&lt;BR&gt;and</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">15cm<BR>;15cm&lt;BR&gt;and (15cm)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">1BP<BR>;MW5+&lt;BR&gt;and Small Arms</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-<BR>;-&lt;BR&gt;and Maco-weapon</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Scout, Skimmer</characteristic>
       </characteristics>
     </profile>
@@ -2005,9 +2005,9 @@ Termite: 2 infantry units without Jump Packs or Mounted. Mole Mortars, Rapiers, 
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">6+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">3+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Twin Battle Cannon&lt;BR&gt;&lt;BR&gt;Thunderfire</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">75cm&lt;BR&gt;&lt;BR&gt;60cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP3+/AT3+&lt;BR&gt;&lt;BR&gt;AA4+</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Twin Battle Cannon<BR>;Thunderfire</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">75cm<BR>;60cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP3+/AT3+<BR>;AA4+</characteristic>
         <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a"/>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7"/>
       </characteristics>
@@ -2019,10 +2019,10 @@ Termite: 2 infantry units without Jump Packs or Mounted. Mole Mortars, Rapiers, 
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">6+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Doom Anvil Missiles&lt;BR&gt;&lt;BR&gt;Heavy Bolter</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm&lt;BR&gt;&lt;BR&gt;30cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AT4+&lt;BR&gt;&lt;BR&gt;AP5+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-&lt;BR&gt;&lt;BR&gt;Lance</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Doom Anvil Missiles<BR>;Heavy Bolter</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm<BR>;30cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AT4+<BR>;AP5+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-<BR>;Lance</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Scout, Skimmer</characteristic>
       </characteristics>
     </profile>

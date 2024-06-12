@@ -3594,22 +3594,22 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="set" field="1160-63e7-57ca-722d" value="Scything Talons&lt;BR&gt;&lt;BR&gt;Venom Cannon">
+        <modifier type="set" field="1160-63e7-57ca-722d" value="Scything Talons<BR>;Venom Cannon">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="set" field="02c3b688-b804-6ce1-b101-b7f9436877bf" value="(contact)&lt;BR&gt;&lt;BR&gt;30cm">
+        <modifier type="set" field="02c3b688-b804-6ce1-b101-b7f9436877bf" value="(contact)<BR>;30cm">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="set" field="f95f7011-da77-2eed-fd80-bca6fe0f1f7d" value="Assault Weapon&lt;BR&gt;&lt;BR&gt;AP5+/AT6+">
+        <modifier type="set" field="f95f7011-da77-2eed-fd80-bca6fe0f1f7d" value="Assault Weapon<BR>;AP5+/AT6+">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="set" field="b8cc-b32c-b8bd-ac4a" value="Macro-weapon, +1A&lt;BR&gt;&lt;BR&gt;-">
+        <modifier type="set" field="b8cc-b32c-b8bd-ac4a" value="Macro-weapon, +1A<BR>;-">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
@@ -3621,10 +3621,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">6+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Scything Talons&lt;BR&gt;&lt;BR&gt;Spore Cysts</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;(15cm)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;Small Arms</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +1A&lt;BR&gt;&lt;BR&gt;-</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Scything Talons<BR>;Spore Cysts</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;(15cm)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;Small Arms</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +1A<BR>;-</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Reinforced Armour</characteristic>
       </characteristics>
     </profile>
@@ -3635,10 +3635,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">4+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">4+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Crushing Claws&lt;BR&gt;&lt;BR&gt;Spore Cysts&lt;BR&gt;&lt;BR&gt;Twin-Linked Brainleech&lt;BR&gt;&lt;BR&gt;Devourer Cannons</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;(15cm)&lt;BR&gt;&lt;BR&gt;30cm&lt;BR&gt;&lt;BR&gt;(15cm)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;Small Arms&lt;BR&gt;&lt;BR&gt;AP4+/AT5+&lt;BR&gt;&lt;BR&gt;Small Arms</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">+1A&lt;BR&gt;&lt;BR&gt;-&lt;BR&gt;&lt;BR&gt;-&lt;BR&gt;&lt;BR&gt;+2A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Crushing Claws<BR>;Spore Cysts<BR>;Twin-Linked Brainleech<BR>;Devourer Cannons</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;(15cm)<BR>;30cm<BR>;(15cm)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;Small Arms<BR>;AP4+/AT5+<BR>;Small Arms</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">+1A<BR>;-<BR>;-<BR>;+2A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Reinforced Armour</characteristic>
       </characteristics>
     </profile>
@@ -3710,17 +3710,17 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
             </conditionGroup>
           </conditionGroups>
         </modifier>
-        <modifier type="set" field="f95f7011-da77-2eed-fd80-bca6fe0f1f7d" value="Assault Weapon&lt;BR&gt;&lt;BR&gt;AP4+/AT4+/AA5+&lt;BR&gt;or Small Arms&lt;BR&gt;&lt;BR&gt;4BP&lt;BR&gt;&lt;BR&gt;2x AP3+/AT4+">
+        <modifier type="set" field="f95f7011-da77-2eed-fd80-bca6fe0f1f7d" value="Assault Weapon<BR>;AP4+/AT4+/AA5+&lt;BR&gt;or Small Arms<BR>;4BP<BR>;2x AP3+/AT4+">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="set" field="b8cc-b32c-b8bd-ac4a" value="Titan Killer (D3), +2A&lt;BR&gt;&lt;BR&gt;-&lt;BR&gt;or Macro-weapon, +1A&lt;BR&gt;&lt;BR&gt;Forward Arc, Macro-weapon&lt;BR&gt;&lt;BR&gt;Fixed Forward Arc">
+        <modifier type="set" field="b8cc-b32c-b8bd-ac4a" value="Titan Killer (D3), +2A<BR>;-&lt;BR&gt;or Macro-weapon, +1A<BR>;Forward Arc, Macro-weapon<BR>;Fixed Forward Arc">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="set" field="b8cc-b32c-b8bd-ac4a" value="Macro-weapon, +3A&lt;BR&gt;&lt;BR&gt;-&lt;BR&gt;or Macro-weapon, +1A&lt;BR&gt;&lt;BR&gt;Fixed Forward Arc, Ignore Cover&lt;BR&gt;&lt;BR&gt;Fixed Forward Arc">
+        <modifier type="set" field="b8cc-b32c-b8bd-ac4a" value="Macro-weapon, +3A<BR>;-&lt;BR&gt;or Macro-weapon, +1A<BR>;Fixed Forward Arc, Ignore Cover<BR>;Fixed Forward Arc">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="19b8-ed01-3816-2875" type="equalTo"/>
           </conditions>
@@ -3737,10 +3737,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">4+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Gargantuan Claws&lt;BR&gt;&lt;BR&gt;Energy Pulse&lt;BR&gt;or&lt;BR&gt;&lt;BR&gt;Bio-Acid Vomit&lt;BR&gt;&lt;BR&gt;Bio-Cannon</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;30cm&lt;BR&gt;or (15cm)&lt;BR&gt;&lt;BR&gt;15cm&lt;BR&gt;&lt;BR&gt;45cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;AP4+/AT4+/AA5+&lt;BR&gt;or Small Arms&lt;BR&gt;&lt;BR&gt;3BP&lt;BR&gt;&lt;BR&gt;2x AP3+/AT4+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +3A&lt;BR&gt;&lt;BR&gt;-&lt;BR&gt;or Macro-weapon, +1A&lt;BR&gt;&lt;BR&gt;Forward Arc, Ignore Cover&lt;BR&gt;&lt;BR&gt;Fixed Forward Arc</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Gargantuan Claws<BR>;Energy Pulse&lt;BR&gt;or<BR>;Bio-Acid Vomit<BR>;Bio-Cannon</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;30cm&lt;BR&gt;or (15cm)<BR>;15cm<BR>;45cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;AP4+/AT4+/AA5+&lt;BR&gt;or Small Arms<BR>;3BP<BR>;2x AP3+/AT4+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +3A<BR>;-&lt;BR&gt;or Macro-weapon, +1A<BR>;Forward Arc, Ignore Cover<BR>;Fixed Forward Arc</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Invulnerable Save, Reinforced Armour, Synapse, Supreme Commander</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">6</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Wounded</characteristic>
@@ -3806,9 +3806,9 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">-</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">6+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">6+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Fleshborer&lt;BR&gt;&lt;BR&gt;Swarm Strike</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)&lt;BR&gt;&lt;BR&gt;15cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms&lt;BR&gt;&lt;BR&gt;AA6+</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Fleshborer<BR>;Swarm Strike</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)<BR>;15cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms<BR>;AA6+</characteristic>
         <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a"/>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Jump Packs</characteristic>
       </characteristics>
@@ -3865,21 +3865,21 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">-</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">-</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Twin Stranglethorns&lt;BR&gt;&lt;BR&gt;Swooping Attack&lt;BR&gt;&lt;BR&gt;Spore Mines</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">30cm&lt;BR&gt;&lt;BR&gt;15cm&lt;BR&gt;&lt;BR&gt;15cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP4+&lt;BR&gt;&lt;BR&gt;AP5+/AT5+/AA5+&lt;BR&gt;&lt;BR&gt;1BP</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Disrupt&lt;BR&gt;&lt;BR&gt;-&lt;BR&gt;&lt;BR&gt;-</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Twin Stranglethorns<BR>;Swooping Attack<BR>;Spore Mines</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">30cm<BR>;15cm<BR>;15cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP4+<BR>;AP5+/AT5+/AA5+<BR>;1BP</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Disrupt<BR>;-<BR>;-</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7"/>
       </characteristics>
     </profile>
     <profile id="0ee5-aa74-ce12-1a63" name="Harridan" hidden="false" typeId="87ab-2658-3f0c-128d" typeName="War Engine">
       <modifiers>
-        <modifier type="set" field="1160-63e7-57ca-722d" value="Massive Claws&lt;BR&gt;&lt;BR&gt;Bio-Cannon">
+        <modifier type="set" field="1160-63e7-57ca-722d" value="Massive Claws<BR>;Bio-Cannon">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="set" field="b8cc-b32c-b8bd-ac4a" value="Macro-weapon, +2A&lt;BR&gt;&lt;BR&gt;Fixed Forward Arc">
+        <modifier type="set" field="b8cc-b32c-b8bd-ac4a" value="Macro-weapon, +2A<BR>;Fixed Forward Arc">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
@@ -3894,7 +3894,7 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="set" field="f95f7011-da77-2eed-fd80-bca6fe0f1f7d" value="Assault Weapon&lt;BR&gt;&lt;BR&gt;3x AP3+/AT4+">
+        <modifier type="set" field="f95f7011-da77-2eed-fd80-bca6fe0f1f7d" value="Assault Weapon<BR>;3x AP3+/AT4+">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
@@ -3906,10 +3906,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">4+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Crushing Claws&lt;BR&gt;&lt;BR&gt;Bio-Cannon</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;45cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;2x AP3+/AT4+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +1A&lt;BR&gt;&lt;BR&gt;Fixed Forward Arc</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Crushing Claws<BR>;Bio-Cannon</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;45cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;2x AP3+/AT4+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +1A<BR>;Fixed Forward Arc</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Leader, Reinforced Armour, Skimmer, Synapse, Transport</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">3</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Destroyed</characteristic>
@@ -3963,7 +3963,7 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
     </profile>
     <profile id="48ab-66a7-1f31-0e9f" name="Hierodule" hidden="false" typeId="87ab-2658-3f0c-128d" typeName="War Engine">
       <modifiers>
-        <modifier type="set" field="1160-63e7-57ca-722d" value="Scything Talons&lt;BR&gt;&lt;BR&gt;Bio-Cannon">
+        <modifier type="set" field="1160-63e7-57ca-722d" value="Scything Talons<BR>;Bio-Cannon">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
@@ -3978,12 +3978,12 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="set" field="b8cc-b32c-b8bd-ac4a" value="Macro-weapon, +1A&lt;BR&gt;&lt;BR&gt;Fixed Forward Arc">
+        <modifier type="set" field="b8cc-b32c-b8bd-ac4a" value="Macro-weapon, +1A<BR>;Fixed Forward Arc">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="19b8-ed01-3816-2875" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="set" field="f95f7011-da77-2eed-fd80-bca6fe0f1f7d" value="Assault Weapon&lt;BR&gt;&lt;BR&gt;3x AP3+/AT4+">
+        <modifier type="set" field="f95f7011-da77-2eed-fd80-bca6fe0f1f7d" value="Assault Weapon<BR>;3x AP3+/AT4+">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
@@ -3995,10 +3995,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">4+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Crushing Claws&lt;BR&gt;&lt;BR&gt;Bio-Cannon</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;45cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;2x AP3+/AT4+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +1A&lt;BR&gt;&lt;BR&gt;Forward Arc</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Crushing Claws<BR>;Bio-Cannon</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;45cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;2x AP3+/AT4+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +1A<BR>;Forward Arc</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Reinforced Armour</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">3</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Destroyed</characteristic>
@@ -4006,12 +4006,12 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
     </profile>
     <profile id="8c10-2508-3852-8ba1" name="Hierophant" hidden="false" typeId="87ab-2658-3f0c-128d" typeName="War Engine">
       <modifiers>
-        <modifier type="set" field="1160-63e7-57ca-722d" value="Massive Claws&lt;BR&gt;&lt;BR&gt;2x Bio-Cannon">
+        <modifier type="set" field="1160-63e7-57ca-722d" value="Massive Claws<BR>;2x Bio-Cannon">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="19b8-ed01-3816-2875" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="set" field="9be9-cd8c-f54b-69d7" value="Macro-weapon, +3A&lt;BR&gt;&lt;BR&gt;Fixed Forward Arc">
+        <modifier type="set" field="9be9-cd8c-f54b-69d7" value="Macro-weapon, +3A<BR>;Fixed Forward Arc">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="19b8-ed01-3816-2875" type="equalTo"/>
           </conditions>
@@ -4028,10 +4028,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Massive Claws&lt;BR&gt;&lt;BR&gt;Bio-Cannon</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;45cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;2x AP3+/AT4+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +3A&lt;BR&gt;&lt;BR&gt;-</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Massive Claws<BR>;Bio-Cannon</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;45cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;2x AP3+/AT4+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +3A<BR>;-</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Reinforced Armour, Synapse</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">4</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Wounded</characteristic>
@@ -4145,10 +4145,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Scything Talons&lt;BR&gt;&lt;BR&gt;Venom Cannon</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;30cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;AP5+/AT6+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +1A&lt;BR&gt;&lt;BR&gt;-</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Scything Talons<BR>;Venom Cannon</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;30cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;AP5+/AT6+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +1A<BR>;-</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Commander, Fearless, Leader, Reinforced Armour, Synapse</characteristic>
       </characteristics>
     </profile>
@@ -4180,12 +4180,12 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="19b8-ed01-3816-2875" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="set" field="1160-63e7-57ca-722d" value="Gargantuan Claws&lt;BR&gt;&lt;BR&gt;Ripper Tentacles&lt;BR&gt;&lt;BR&gt;Bio-Acid Vomit&lt;BR&gt;&lt;BR&gt;2x Bio-Cannon">
+        <modifier type="set" field="1160-63e7-57ca-722d" value="Gargantuan Claws<BR>;Ripper Tentacles<BR>;Bio-Acid Vomit<BR>;2x Bio-Cannon">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="19b8-ed01-3816-2875" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="set" field="b8cc-b32c-b8bd-ac4a" value="Macro-weapon, +3A&lt;BR&gt;&lt;BR&gt;Titan Killer (D3), +2A&lt;BR&gt;&lt;BR&gt;Fixed Forward Arc, Ignore Cover&lt;BR&gt;&lt;BR&gt;Fixed Forward Arc">
+        <modifier type="set" field="b8cc-b32c-b8bd-ac4a" value="Macro-weapon, +3A<BR>;Titan Killer (D3), +2A<BR>;Fixed Forward Arc, Ignore Cover<BR>;Fixed Forward Arc">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="19b8-ed01-3816-2875" type="equalTo"/>
           </conditions>
@@ -4207,10 +4207,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Gargantuan Claws&lt;BR&gt;&lt;BR&gt;Ripper Tentacles&lt;BR&gt;&lt;BR&gt;Bio-Acid Vomit&lt;BR&gt;&lt;BR&gt;Bio-Cannon</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;(contact)&lt;BR&gt;&lt;BR&gt;15cm&lt;BR&gt;&lt;BR&gt;45cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;Assault Weapon&lt;BR&gt;&lt;BR&gt;3BP&lt;BR&gt;&lt;BR&gt;2x AP3+/AT4+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +3A&lt;BR&gt;&lt;BR&gt;Titan Killer (D3), +2A&lt;BR&gt;&lt;BR&gt;Forward Arc, Ignore Cover&lt;BR&gt;&lt;BR&gt;Fixed Forward Arc</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Gargantuan Claws<BR>;Ripper Tentacles<BR>;Bio-Acid Vomit<BR>;Bio-Cannon</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;(contact)<BR>;15cm<BR>;45cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;Assault Weapon<BR>;3BP<BR>;2x AP3+/AT4+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +3A<BR>;Titan Killer (D3), +2A<BR>;Forward Arc, Ignore Cover<BR>;Fixed Forward Arc</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Invulnerable Save, Reinforced Armour, Synapse</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">6</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Wounded</characteristic>
@@ -4268,22 +4268,22 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="append" field="1160-63e7-57ca-722d" value="&lt;BR&gt;&lt;BR&gt;Flesh Hooks">
+        <modifier type="append" field="1160-63e7-57ca-722d" value="<BR>;Flesh Hooks">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="19b8-ed01-3816-2875" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="append" field="02c3b688-b804-6ce1-b101-b7f9436877bf" value="&lt;BR&gt;&lt;BR&gt;(15cm)">
+        <modifier type="append" field="02c3b688-b804-6ce1-b101-b7f9436877bf" value="<BR>;(15cm)">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="19b8-ed01-3816-2875" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="append" field="f95f7011-da77-2eed-fd80-bca6fe0f1f7d" value="&lt;BR&gt;&lt;BR&gt;Small Arms">
+        <modifier type="append" field="f95f7011-da77-2eed-fd80-bca6fe0f1f7d" value="<BR>;Small Arms">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="19b8-ed01-3816-2875" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="append" field="b8cc-b32c-b8bd-ac4a" value="&lt;BR&gt;&lt;BR&gt;-">
+        <modifier type="append" field="b8cc-b32c-b8bd-ac4a" value="<BR>;-">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="19b8-ed01-3816-2875" type="equalTo"/>
           </conditions>
@@ -4421,10 +4421,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">6+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Scything Talons&lt;BR&gt;&lt;BR&gt;Deathspitters</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;(15cm)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;Small Arms</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +1A&lt;BR&gt;&lt;BR&gt;-</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Scything Talons<BR>;Deathspitters</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;(15cm)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;Small Arms</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +1A<BR>;-</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Infiltrator, Teleport</characteristic>
       </characteristics>
     </profile>
@@ -4449,10 +4449,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Vicious Claws&lt;BR&gt;&lt;BR&gt;Pyro-acid</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;(15cm)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;2x AP3+/AT4+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Titan Killer, +2A&lt;BR&gt;&lt;BR&gt;Ignore Cover, +1A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Vicious Claws<BR>;Pyro-acid</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;(15cm)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;2x AP3+/AT4+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Titan Killer, +2A<BR>;Ignore Cover, +1A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Invulnerable Save, Reinforced Armour</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">3</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Destroyed</characteristic>
@@ -4517,21 +4517,21 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">4+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Scything Talons&lt;BR&gt;&lt;BR&gt;Spore Cysts</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;(15cm)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;Small Arms</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +1A&lt;BR&gt;&lt;BR&gt;-</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Scything Talons<BR>;Spore Cysts</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;(15cm)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;Small Arms</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +1A<BR>;-</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Broodmother (Termagants), Leader, Reinforced Armour, Synapse</characteristic>
       </characteristics>
     </profile>
     <profile id="f101-458e-4274-1f49" name="Trygon" hidden="false" typeId="87ab-2658-3f0c-128d" typeName="War Engine">
       <modifiers>
-        <modifier type="set" field="1160-63e7-57ca-722d" value="Massive Claws&lt;BR&gt;&lt;BR&gt;Bio-Electric Field">
+        <modifier type="set" field="1160-63e7-57ca-722d" value="Massive Claws<BR>;Bio-Electric Field">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="set" field="b8cc-b32c-b8bd-ac4a" value="Macro-weapon, +2A&lt;BR&gt;&lt;BR&gt;-">
+        <modifier type="set" field="b8cc-b32c-b8bd-ac4a" value="Macro-weapon, +2A<BR>;-">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
@@ -4558,10 +4558,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Vicious Claws&lt;BR&gt;&lt;BR&gt;Bio-Electric Field</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;15cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;2x AP3+/AT6+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">+1A&lt;BR&gt;&lt;BR&gt;Forward Arc</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Vicious Claws<BR>;Bio-Electric Field</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;15cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;2x AP3+/AT6+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">+1A<BR>;Forward Arc</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Infiltrator, Reinforced Armour, Synapse, Teleport</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">2</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Destroyed</characteristic>
@@ -4574,10 +4574,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">3+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Massive Claws&lt;BR&gt;&lt;BR&gt;Bio-Electric Field</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;15cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;2x AP3+/AT6+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +2A&lt;BR&gt;&lt;BR&gt;-</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Massive Claws<BR>;Bio-Electric Field</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;15cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;2x AP3+/AT6+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +2A<BR>;-</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Invulnerable Save, Synapse, Tunneller</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">2</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Destroyed</characteristic>
@@ -4595,22 +4595,22 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="set" field="1160-63e7-57ca-722d" value="Scything Talons&lt;BR&gt;&lt;BR&gt;Venom Cannon">
+        <modifier type="set" field="1160-63e7-57ca-722d" value="Scything Talons<BR>;Venom Cannon">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="set" field="02c3b688-b804-6ce1-b101-b7f9436877bf" value="(contact)&lt;BR&gt;&lt;BR&gt;30cm">
+        <modifier type="set" field="02c3b688-b804-6ce1-b101-b7f9436877bf" value="(contact)<BR>;30cm">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="set" field="f95f7011-da77-2eed-fd80-bca6fe0f1f7d" value="Assault Weapon&lt;BR&gt;&lt;BR&gt;AP5+/AT6+">
+        <modifier type="set" field="f95f7011-da77-2eed-fd80-bca6fe0f1f7d" value="Assault Weapon<BR>;AP5+/AT6+">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
         </modifier>
-        <modifier type="set" field="b8cc-b32c-b8bd-ac4a" value="+1A&lt;BR&gt;&lt;BR&gt;-">
+        <modifier type="set" field="b8cc-b32c-b8bd-ac4a" value="+1A<BR>;-">
           <conditions>
             <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2a9e-17ba-642a-dfd1" type="equalTo"/>
           </conditions>
@@ -4632,10 +4632,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Rending Claws&lt;BR&gt;&lt;BR&gt;Deathspitters&lt;BR&gt;&lt;BR&gt;Venom Cannon</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;(15cm)&lt;BR&gt;&lt;BR&gt;30cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;Small Arms&lt;BR&gt;&lt;BR&gt;AP5+/AT6+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">+1A&lt;BR&gt;&lt;BR&gt;-&lt;BR&gt;&lt;BR&gt;-</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Rending Claws<BR>;Deathspitters<BR>;Venom Cannon</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;(15cm)<BR>;30cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;Small Arms<BR>;AP5+/AT6+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">+1A<BR>;-<BR>;-</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Leader, Synapse</characteristic>
       </characteristics>
     </profile>
@@ -4681,10 +4681,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Scything Talons&lt;BR&gt;&lt;BR&gt;Venom Cannon</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;30cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;AP5+/AT6+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">+1A&lt;BR&gt;&lt;BR&gt;-</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Scything Talons<BR>;Venom Cannon</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;30cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;AP5+/AT6+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">+1A<BR>;-</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Commander, Fearless, Leader, Reinforced Armour, Synapse, Jump Pack</characteristic>
       </characteristics>
     </profile>
@@ -4695,10 +4695,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Rending Claws&lt;BR&gt;&lt;BR&gt;Venom Cannon</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;30cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;AP5+/AT6+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">+1A&lt;BR&gt;&lt;BR&gt;-</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Rending Claws<BR>;Venom Cannon</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;30cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;AP5+/AT6+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">+1A<BR>;-</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Synapse</characteristic>
       </characteristics>
     </profile>
@@ -4750,10 +4750,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Scything Talons&lt;BR&gt;&lt;BR&gt;Venom Cannon</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;30cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;AP5+/AT6+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +1A&lt;BR&gt;&lt;BR&gt;-</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Scything Talons<BR>;Venom Cannon</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;30cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;AP5+/AT6+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +1A<BR>;-</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Commander, Fearless, Inspiring, Leader, Reinforced Armour, Synapse</characteristic>
       </characteristics>
     </profile>
@@ -4764,10 +4764,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Scything Talons&lt;BR&gt;&lt;BR&gt;Venom Cannon</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;30cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;AP5+/AT6+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +1A&lt;BR&gt;&lt;BR&gt;-</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Scything Talons<BR>;Venom Cannon</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;30cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;AP5+/AT6+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +1A<BR>;-</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Inspiring, Invulnerable Save, Reinforced Armour, Supreme Commander, Synapse</characteristic>
       </characteristics>
     </profile>
@@ -4778,10 +4778,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Vicious Claws&lt;BR&gt;&lt;BR&gt;Pyro-acid</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;(15cm)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;2x AP3+/AT4+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Titan Killer, +2A&lt;BR&gt;&lt;BR&gt;Ignore Cover, +1A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Vicious Claws<BR>;Pyro-acid</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;(15cm)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;2x AP3+/AT4+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Titan Killer, +2A<BR>;Ignore Cover, +1A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Invulnerable Save, Reinforced Armour, Synapse</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">3</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Destroyed</characteristic>
@@ -4794,10 +4794,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">4+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Scything Talons&lt;BR&gt;&lt;BR&gt;Bio-Cannon</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;45cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;3x AP3+/AT4+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +1A&lt;BR&gt;&lt;BR&gt;Forward Arc</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Scything Talons<BR>;Bio-Cannon</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;45cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;3x AP3+/AT4+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +1A<BR>;Forward Arc</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Invulnerable Save, Reinforced Armour, Synapse</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">3</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Destroyed</characteristic>
@@ -4817,10 +4817,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Vicious Claws&lt;BR&gt;&lt;BR&gt;2x Bio-Cannon&lt;BR&gt;&lt;BR&gt;Dart Launchers</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;45cm&lt;BR&gt;&lt;BR&gt;(15cm)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;2x AP3+/AT4+&lt;BR&gt;&lt;BR&gt;Small Arms</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Titan Killer, +2A&lt;BR&gt;&lt;BR&gt;Fixed Forward Arc&lt;BR&gt;&lt;BR&gt;+1A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Vicious Claws<BR>;2x Bio-Cannon<BR>;Dart Launchers</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;45cm<BR>;(15cm)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;2x AP3+/AT4+<BR>;Small Arms</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Titan Killer, +2A<BR>;Fixed Forward Arc<BR>;+1A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Invulnerable Save, Reinforced Armour</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">6</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Wounded</characteristic>
@@ -4840,10 +4840,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Gargantuan Claws&lt;BR&gt;&lt;BR&gt;Tentacles&lt;BR&gt;&lt;BR&gt;2x Dart Launchers&lt;BR&gt;&lt;BR&gt;Heavy Bio-Acid&lt;BR&gt;&lt;BR&gt;2x Heavy Bio-Cannon</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;(contact)&lt;BR&gt;&lt;BR&gt;(15cm)&lt;BR&gt;&lt;BR&gt;30cm&lt;BR&gt;&lt;BR&gt;60cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;Assault Weapon&lt;BR&gt;&lt;BR&gt;Small Arms&lt;BR&gt;&lt;BR&gt;4BP&lt;BR&gt;&lt;BR&gt;2x AP3+/AT4+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Titan Killer (D3), +2A&lt;BR&gt;&lt;BR&gt;First Strike, +2A&lt;BR&gt;&lt;BR&gt;+1A&lt;BR&gt;&lt;BR&gt;Macro-weapon, Fixed Forward Arc&lt;BR&gt;&lt;BR&gt;Fixed Forward Arc</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Gargantuan Claws<BR>;Tentacles<BR>;2x Dart Launchers<BR>;Heavy Bio-Acid<BR>;2x Heavy Bio-Cannon</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;(contact)<BR>;(15cm)<BR>;30cm<BR>;60cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;Assault Weapon<BR>;Small Arms<BR>;4BP<BR>;2x AP3+/AT4+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Titan Killer (D3), +2A<BR>;First Strike, +2A<BR>;+1A<BR>;Macro-weapon, Fixed Forward Arc<BR>;Fixed Forward Arc</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Invulnerable Save, Reinforced Armour</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">8</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Wounded</characteristic>
@@ -4856,10 +4856,10 @@ Fortifications (minefields, barbed wire, etc.) and special terrain (lava rivers,
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">-</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">-</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Drool Cannon&lt;BR&gt;&lt;BR&gt;Tentaclids</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">30cm&lt;BR&gt;&lt;BR&gt;15cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP4+/AT5+&lt;BR&gt;&lt;BR&gt;AA6+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Forward Arc&lt;BR&gt;&lt;BR&gt;360° Arc</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Drool Cannon<BR>;Tentaclids</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">30cm<BR>;15cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP4+/AT5+<BR>;AA6+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Forward Arc<BR>;360° Arc</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7"/>
       </characteristics>
     </profile>

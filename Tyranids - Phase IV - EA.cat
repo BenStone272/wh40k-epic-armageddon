@@ -3649,10 +3649,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">3+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">4+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Devourer&lt;BR&gt;&lt;BR&gt;Slashing Claws</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms&lt;BR&gt;&lt;BR&gt;Assault Weapons</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">+1A&lt;BR&gt;&lt;BR&gt;+1A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Devourer<BR>;Slashing Claws</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms<BR>;Assault Weapons</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">+1A<BR>;+1A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (3), Fearless, Inspiring</characteristic>
       </characteristics>
     </profile>
@@ -3663,10 +3663,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">3+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Scything Talons&lt;BR&gt;&lt;BR&gt;Spore Cysts</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;(15cm)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;Small Arms</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +1A&lt;BR&gt;&lt;BR&gt;-</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Scything Talons<BR>;Spore Cysts</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;(15cm)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;Small Arms</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +1A<BR>;-</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (3), Fearless</characteristic>
       </characteristics>
     </profile>
@@ -3691,10 +3691,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">3+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">4+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">4+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Twin Devourers&lt;BR&gt;&lt;BR&gt;Barbed Strangler</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)&lt;BR&gt;&lt;BR&gt;30cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms&lt;BR&gt;&lt;BR&gt;AP4+/AT6+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">+2A&lt;BR&gt;&lt;BR&gt;Disrupt</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Twin Devourers<BR>;Barbed Strangler</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)<BR>;30cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms<BR>;AP4+/AT6+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">+2A<BR>;Disrupt</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (3), Fearless</characteristic>
       </characteristics>
     </profile>
@@ -3705,9 +3705,9 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">3+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">5+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">4+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Spore Cysts&lt;BR&gt;&lt;BR&gt;2x Venom Cannon</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)&lt;BR&gt;&lt;BR&gt;30cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms&lt;BR&gt;&lt;BR&gt;AP5+/AT6+</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Spore Cysts<BR>;2x Venom Cannon</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)<BR>;30cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms<BR>;AP5+/AT6+</characteristic>
         <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a"/>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (3), Fearless</characteristic>
       </characteristics>
@@ -3719,10 +3719,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">3+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">4+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">6+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Spore Cysts&lt;BR&gt;&lt;BR&gt;Big Claws</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms&lt;BR&gt;&lt;BR&gt;Assault Weapons</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-&lt;BR&gt;&lt;BR&gt;Macro-weapon, +1A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Spore Cysts<BR>;Big Claws</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms<BR>;Assault Weapons</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-<BR>;Macro-weapon, +1A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (2), Fearless, Walker</characteristic>
       </characteristics>
     </profile>
@@ -3733,9 +3733,9 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">3+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">4+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Spore Cysts&lt;BR&gt;&lt;BR&gt;Venom Cannon</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)&lt;BR&gt;&lt;BR&gt;30cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms&lt;BR&gt;&lt;BR&gt;AP5+/AT6+</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Spore Cysts<BR>;Venom Cannon</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)<BR>;30cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms<BR>;AP5+/AT6+</characteristic>
         <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a"/>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (2), Fearless, Walker</characteristic>
       </characteristics>
@@ -3747,10 +3747,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">6+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">6+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Bile Pods&lt;BR&gt;&lt;BR&gt;Spore Cysts</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm&lt;BR&gt;&lt;BR&gt;(15cm)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">1BP&lt;BR&gt;&lt;BR&gt;Small Arms</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Disrupt, Indirect Fire&lt;BR&gt;&lt;BR&gt;-</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Bile Pods<BR>;Spore Cysts</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm<BR>;(15cm)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">1BP<BR>;Small Arms</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Disrupt, Indirect Fire<BR>;-</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (3)</characteristic>
       </characteristics>
     </profile>
@@ -3761,10 +3761,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Energy Pulse&lt;BR&gt;and&lt;BR&gt;&lt;BR&gt;Dorsal Bio-Cannon&lt;BR&gt;&lt;BR&gt;Bio-Plasma Breath&lt;BR&gt;&lt;BR&gt;Gargantuan Claws</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">30cm&lt;BR&gt;and (15cm)&lt;BR&gt;&lt;BR&gt;45cm&lt;BR&gt;&lt;BR&gt;15cm&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP4+/AT4+/AA5+&lt;BR&gt;and Small Arms&lt;BR&gt;&lt;BR&gt;2x AP3+/AT4+&lt;BR&gt;&lt;BR&gt;4BP&lt;BR&gt;&lt;BR&gt;Assault Weapons</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-&lt;BR&gt;and Macro-weapon, +1A&lt;BR&gt;&lt;BR&gt;Fixed Forward Arc&lt;BR&gt;&lt;BR&gt;Macro-weapon, Forward Arc&lt;BR&gt;&lt;BR&gt;Titan Killer (D3), +2A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Energy Pulse&lt;BR&gt;and<BR>;Dorsal Bio-Cannon<BR>;Bio-Plasma Breath<BR>;Gargantuan Claws</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">30cm&lt;BR&gt;and (15cm)<BR>;45cm<BR>;15cm<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP4+/AT4+/AA5+&lt;BR&gt;and Small Arms<BR>;2x AP3+/AT4+<BR>;4BP<BR>;Assault Weapons</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-&lt;BR&gt;and Macro-weapon, +1A<BR>;Fixed Forward Arc<BR>;Macro-weapon, Forward Arc<BR>;Titan Killer (D3), +2A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Inspiring, Invulnerable Save, Reinforced Armour, Supreme Commander, Synapse</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">8</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Dominatrix</characteristic>
@@ -3777,10 +3777,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Warp Blast&lt;BR&gt;&lt;BR&gt;Bio-plasmic Breath&lt;BR&gt;&lt;BR&gt;Monstrous Claws</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">30cm&lt;BR&gt;&lt;BR&gt;Template&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP4+/AT4+/AA5+&lt;BR&gt;&lt;BR&gt;MW5+&lt;BR&gt;&lt;BR&gt;Assault Weapons</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-&lt;BR&gt;&lt;BR&gt;Ignore Cover&lt;BR&gt;&lt;BR&gt;+2A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Warp Blast<BR>;Bio-plasmic Breath<BR>;Monstrous Claws</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">30cm<BR>;Template<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP4+/AT4+/AA5+<BR>;MW5+<BR>;Assault Weapons</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-<BR>;Ignore Cover<BR>;+2A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Regeneration, Reinforced Armour, Supreme Commander, Synapse (+6), Walker</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">8</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Dominatrix</characteristic>
@@ -3793,9 +3793,9 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">5+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Bio-Cannon&lt;BR&gt;&lt;BR&gt;Spore Cysts</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm&lt;BR&gt;&lt;BR&gt;(15cm)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">2x AP4+/AT5+&lt;BR&gt;&lt;BR&gt;Small Arms</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Bio-Cannon<BR>;Spore Cysts</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm<BR>;(15cm)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">2x AP4+/AT5+<BR>;Small Arms</characteristic>
         <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a"/>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (3)</characteristic>
       </characteristics>
@@ -3807,10 +3807,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">6+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Super Spore Mine&lt;BR&gt;&lt;BR&gt;Spore Cysts</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm&lt;BR&gt;&lt;BR&gt;(15cm)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">1BP&lt;BR&gt;&lt;BR&gt;Small Arms</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Disrupt, Indirect Fire&lt;BR&gt;&lt;BR&gt;-</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Super Spore Mine<BR>;Spore Cysts</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm<BR>;(15cm)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">1BP<BR>;Small Arms</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Disrupt, Indirect Fire<BR>;-</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (3), Walker</characteristic>
       </characteristics>
     </profile>
@@ -3821,10 +3821,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">5+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">4+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">2x Bio-Cannon&lt;BR&gt;&lt;BR&gt;Spore Cysts</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm&lt;BR&gt;&lt;BR&gt;(15cm)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">MW5+&lt;BR&gt;&lt;BR&gt;Small Arms</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Ignore Cover&lt;BR&gt;&lt;BR&gt;-</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">2x Bio-Cannon<BR>;Spore Cysts</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm<BR>;(15cm)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">MW5+<BR>;Small Arms</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Ignore Cover<BR>;-</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (3), Walker</characteristic>
       </characteristics>
     </profile>
@@ -3835,9 +3835,9 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">-</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">6+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Fleshborer&lt;BR&gt;&lt;BR&gt;Bio-Plasma Attack&lt;BR&gt;&lt;BR&gt;Swarm Strike</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)&lt;BR&gt;&lt;BR&gt;(contact)&lt;BR&gt;&lt;BR&gt;15cm</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms&lt;BR&gt;&lt;BR&gt;Assault Weapon&lt;BR&gt;&lt;BR&gt;AA6+</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Fleshborer<BR>;Bio-Plasma Attack<BR>;Swarm Strike</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)<BR>;(contact)<BR>;15cm</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms<BR>;Assault Weapon<BR>;AA6+</characteristic>
         <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a"/>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (1), Jump Packs</characteristic>
       </characteristics>
@@ -3849,9 +3849,9 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">6+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">6+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Fleshborer&lt;BR&gt;&lt;BR&gt;Bio-Plasma Attack</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms&lt;BR&gt;&lt;BR&gt;Assault Weapon</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Fleshborer<BR>;Bio-Plasma Attack</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms<BR>;Assault Weapon</characteristic>
         <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a"/>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (1), Jump Packs</characteristic>
       </characteristics>
@@ -3900,10 +3900,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">4+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Twin Bio-Cannon&lt;BR&gt;&lt;BR&gt;Crushing Claws</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">2x AP3+/AT4+&lt;BR&gt;&lt;BR&gt;Assault Weapons</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Fixed Forward Arc&lt;BR&gt;&lt;BR&gt;Macro-weapon, +2A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Twin Bio-Cannon<BR>;Crushing Claws</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">2x AP3+/AT4+<BR>;Assault Weapons</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Fixed Forward Arc<BR>;Macro-weapon, +2A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Leader, Reinforced Armour, Skimmer, Transport</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">4</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Flying Creature</characteristic>
@@ -3916,10 +3916,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">4+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">2x Bio-cannon&lt;BR&gt;&lt;BR&gt;Spore Cannon&lt;BR&gt;&lt;BR&gt;Huge Claws</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm&lt;BR&gt;&lt;BR&gt;Template&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">MW5+&lt;BR&gt;&lt;BR&gt;MW5+/AA5+&lt;BR&gt;&lt;BR&gt;Assault Weapons</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Ignore Cover&lt;BR&gt;&lt;BR&gt;Ignore Cover&lt;BR&gt;&lt;BR&gt;Macro-weapon, +2A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">2x Bio-cannon<BR>;Spore Cannon<BR>;Huge Claws</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm<BR>;Template<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">MW5+<BR>;MW5+/AA5+<BR>;Assault Weapons</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Ignore Cover<BR>;Ignore Cover<BR>;Macro-weapon, +2A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Regeneration, Reinforced Armour, Skimmer, Synapse (+2), Transport</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">2</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Destroyed</characteristic>
@@ -3932,10 +3932,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Crushing Claws&lt;BR&gt;&lt;BR&gt;Spore Cysts</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)&lt;BR&gt;&lt;BR&gt;(15cm)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon&lt;BR&gt;&lt;BR&gt;Small Arms</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +2A&lt;BR&gt;&lt;BR&gt;-</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Crushing Claws<BR>;Spore Cysts</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(contact)<BR>;(15cm)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Assault Weapon<BR>;Small Arms</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, +2A<BR>;-</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (3), Reinforced Armour</characteristic>
       </characteristics>
     </profile>
@@ -3946,10 +3946,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Cluster Spines&lt;BR&gt;&lt;BR&gt;Acid Spray&lt;BR&gt;&lt;BR&gt;Large Claws</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)&lt;BR&gt;&lt;BR&gt;15cm&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms&lt;BR&gt;&lt;BR&gt;MW5+&lt;BR&gt;&lt;BR&gt;Assault Weapon</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-&lt;BR&gt;&lt;BR&gt;Ignore Cover&lt;BR&gt;&lt;BR&gt;Macro-weapon, Titan Killer (D3), +1A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Cluster Spines<BR>;Acid Spray<BR>;Large Claws</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)<BR>;15cm<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms<BR>;MW5+<BR>;Assault Weapon</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-<BR>;Ignore Cover<BR>;Macro-weapon, Titan Killer (D3), +1A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (3), Reinforced Armour, Walker</characteristic>
       </characteristics>
     </profile>
@@ -3960,10 +3960,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Cluster Spines&lt;BR&gt;&lt;BR&gt;Huge Claws</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms&lt;BR&gt;&lt;BR&gt;Assault Weapon</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-&lt;BR&gt;&lt;BR&gt;+2A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Cluster Spines<BR>;Huge Claws</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms<BR>;Assault Weapon</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-<BR>;+2A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (3), Reinforced Armour, Walker</characteristic>
       </characteristics>
     </profile>
@@ -3974,10 +3974,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">4+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Twin Bio-Cannon&lt;BR&gt;&lt;BR&gt;Scything Talons</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">2x AP3+/AT4+&lt;BR&gt;&lt;BR&gt;Assault Weapons</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Forward Arc&lt;BR&gt;&lt;BR&gt;Macro-weapon, +1A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Twin Bio-Cannon<BR>;Scything Talons</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">2x AP3+/AT4+<BR>;Assault Weapons</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Forward Arc<BR>;Macro-weapon, +1A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (9), Reinforced Armour</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">3</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Destroyed</characteristic>
@@ -3990,10 +3990,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Acid Spray&lt;BR&gt;&lt;BR&gt;Massive Claws</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms&lt;BR&gt;&lt;BR&gt;Assault Weapons</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Ignore Cover, +1A&lt;BR&gt;&lt;BR&gt;Titan Killer, +2A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Acid Spray<BR>;Massive Claws</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms<BR>;Assault Weapons</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Ignore Cover, +1A<BR>;Titan Killer, +2A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (9), Reinforced Armour</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">3</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Destroyed</characteristic>
@@ -4006,10 +4006,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Cluster Spines&lt;BR&gt;&lt;BR&gt;Acid Spray&lt;BR&gt;&lt;BR&gt;Large Claws</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)&lt;BR&gt;&lt;BR&gt;15cm&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms&lt;BR&gt;&lt;BR&gt;MW5+&lt;BR&gt;&lt;BR&gt;Assault Weapons</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-&lt;BR&gt;&lt;BR&gt;Ignore Cover&lt;BR&gt;&lt;BR&gt;Macro-weapon, Titan Killer (D3), +1A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Cluster Spines<BR>;Acid Spray<BR>;Large Claws</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)<BR>;15cm<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms<BR>;MW5+<BR>;Assault Weapons</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-<BR>;Ignore Cover<BR>;Macro-weapon, Titan Killer (D3), +1A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (6), Regeneration, Reinforced Armour, Walker</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">3</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Injured</characteristic>
@@ -4022,10 +4022,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Cluster Spines&lt;BR&gt;&lt;BR&gt;Bio-Shock Wave&lt;BR&gt;&lt;BR&gt;Huge Claws</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)&lt;BR&gt;&lt;BR&gt;Template&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms&lt;BR&gt;&lt;BR&gt;MW5+&lt;BR&gt;&lt;BR&gt;Assault Weapons</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-&lt;BR&gt;&lt;BR&gt;Disrupt, Ignore Cover&lt;BR&gt;&lt;BR&gt;Macro-weapon, +2A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Cluster Spines<BR>;Bio-Shock Wave<BR>;Huge Claws</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)<BR>;Template<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms<BR>;MW5+<BR>;Assault Weapons</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-<BR>;Disrupt, Ignore Cover<BR>;Macro-weapon, +2A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (6), Regeneration, Reinforced Armour, Walker</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">3</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Injured</characteristic>
@@ -4038,10 +4038,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">2x Hierophant Bio-Cannon&lt;BR&gt;&lt;BR&gt;Massive Claws&lt;BR&gt;&lt;BR&gt;Toxic Spores</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm&lt;BR&gt;&lt;BR&gt;(contact)&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">2x AP3+/AT4+&lt;BR&gt;&lt;BR&gt;Assault Weapon&lt;BR&gt;&lt;BR&gt;Assault Weapon</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Forward Arc&lt;BR&gt;&lt;BR&gt;Titan Killer, +2A&lt;BR&gt;&lt;BR&gt;+1A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">2x Hierophant Bio-Cannon<BR>;Massive Claws<BR>;Toxic Spores</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm<BR>;(contact)<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">2x AP3+/AT4+<BR>;Assault Weapon<BR>;Assault Weapon</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Forward Arc<BR>;Titan Killer, +2A<BR>;+1A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Inspiring, Invulnerable Save, Reinforced Armour</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">6</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Hierophant</characteristic>
@@ -4054,10 +4054,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Bio-Plasmic Breath&lt;BR&gt;&lt;BR&gt;Monstrous Claws&lt;BR&gt;&lt;BR&gt;Cluster Spines</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm&lt;BR&gt;&lt;BR&gt;(contact)&lt;BR&gt;&lt;BR&gt;(15cm)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">MW5+&lt;BR&gt;&lt;BR&gt;Assault Weapon&lt;BR&gt;&lt;BR&gt;Small Arms</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Ignore Cover&lt;BR&gt;&lt;BR&gt;Macro-weapon, Titan Killer (D3), +2A&lt;BR&gt;&lt;BR&gt;-</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Bio-Plasmic Breath<BR>;Monstrous Claws<BR>;Cluster Spines</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm<BR>;(contact)<BR>;(15cm)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">MW5+<BR>;Assault Weapon<BR>;Small Arms</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Ignore Cover<BR>;Macro-weapon, Titan Killer (D3), +2A<BR>;-</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Independent, Regeneration, Reinforced Armour, Walker</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">6</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Injured</characteristic>
@@ -4100,10 +4100,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">n/a</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">n/a</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">n/a</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Orbital Bombardment&lt;BR&gt;&lt;BR&gt;Pin-point Attack</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">n/a&lt;BR&gt;&lt;BR&gt;n/a</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">6BP&lt;BR&gt;&lt;BR&gt;MW2+</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon&lt;BR&gt;&lt;BR&gt;Titan Killer (D3)</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Orbital Bombardment<BR>;Pin-point Attack</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">n/a<BR>;n/a</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">6BP<BR>;MW2+</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon<BR>;Titan Killer (D3)</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Transport</characteristic>
       </characteristics>
     </profile>
@@ -4131,10 +4131,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Venom Cannon&lt;BR&gt;&lt;BR&gt;Scything Talons</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">30cm&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP5+/AT6+&lt;BR&gt;&lt;BR&gt;Assault Weapon</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-&lt;BR&gt;&lt;BR&gt;Macro-weapon, +1A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Venom Cannon<BR>;Scything Talons</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">30cm<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP5+/AT6+<BR>;Assault Weapon</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-<BR>;Macro-weapon, +1A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Commander, Fearless, Leader, Reinforced Armour, Synapse</characteristic>
       </characteristics>
     </profile>
@@ -4176,10 +4176,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Bio-Plasma Breath&lt;BR&gt;&lt;BR&gt;Gargantuan Claws&lt;BR&gt;&lt;BR&gt;Ripper Tentacles</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">15cm&lt;BR&gt;&lt;BR&gt;(contact)&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">4BP&lt;BR&gt;&lt;BR&gt;Assault Weapon&lt;BR&gt;&lt;BR&gt;Assault Weapon</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, Forward Arc&lt;BR&gt;&lt;BR&gt;Titan Killer (D3), +2A&lt;BR&gt;&lt;BR&gt;First Strike, +2A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Bio-Plasma Breath<BR>;Gargantuan Claws<BR>;Ripper Tentacles</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">15cm<BR>;(contact)<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">4BP<BR>;Assault Weapon<BR>;Assault Weapon</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Macro-weapon, Forward Arc<BR>;Titan Killer (D3), +2A<BR>;First Strike, +2A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Inspiring, Invulnerable save, Reinforced Armour</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">8</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Hydraphant</characteristic>
@@ -4192,10 +4192,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Warp Blast&lt;BR&gt;&lt;BR&gt;Bio-Plasmic Breath&lt;BR&gt;&lt;BR&gt;Monstrous Claws&lt;BR&gt;&lt;BR&gt;Cluster Spines</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">30cm&lt;BR&gt;&lt;BR&gt;Template&lt;BR&gt;&lt;BR&gt;(contact)&lt;BR&gt;&lt;BR&gt;(15cm)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP4+/AT4+/AA5+&lt;BR&gt;&lt;BR&gt;MW5+&lt;BR&gt;&lt;BR&gt;Assault Weapon&lt;BR&gt;&lt;BR&gt;Small Arms</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-&lt;BR&gt;&lt;BR&gt;Ignore Cover&lt;BR&gt;&lt;BR&gt;Macro-weapon, Titan Killer (D3), +2A&lt;BR&gt;&lt;BR&gt;-</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Warp Blast<BR>;Bio-Plasmic Breath<BR>;Monstrous Claws<BR>;Cluster Spines</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">30cm<BR>;Template<BR>;(contact)<BR>;(15cm)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP4+/AT4+/AA5+<BR>;MW5+<BR>;Assault Weapon<BR>;Small Arms</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-<BR>;Ignore Cover<BR>;Macro-weapon, Titan Killer (D3), +2A<BR>;-</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Regeneration, Reinforced Armour, Walker</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">8</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Injured</characteristic>
@@ -4295,10 +4295,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Deathspitters&lt;BR&gt;&lt;BR&gt;Slashing Claws</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms&lt;BR&gt;&lt;BR&gt;Assault Weapon</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-&lt;BR&gt;&lt;BR&gt;+1A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Deathspitters<BR>;Slashing Claws</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms<BR>;Assault Weapon</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-<BR>;+1A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (2), Infiltrator, Tunneller</characteristic>
       </characteristics>
     </profile>
@@ -4309,9 +4309,9 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">4+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">6+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Deathspitters&lt;BR&gt;&lt;BR&gt;Scything Talons</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms&lt;BR&gt;&lt;BR&gt;Assault Weapon</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Deathspitters<BR>;Scything Talons</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">(15cm)<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">Small Arms<BR>;Assault Weapon</characteristic>
         <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a"/>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (2), Infiltrator</characteristic>
       </characteristics>
@@ -4344,10 +4344,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">3+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Bio-Electric Field&lt;BR&gt;&lt;BR&gt;Vicious Claws</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">15cm&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">2x AP3+/AT6+&lt;BR&gt;&lt;BR&gt;Assault Weapon</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Forward Arc&lt;BR&gt;&lt;BR&gt;+2A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Bio-Electric Field<BR>;Vicious Claws</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">15cm<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">2x AP3+/AT6+<BR>;Assault Weapon</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Forward Arc<BR>;+2A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Brood (6), Invulnerable Save, Tunneller</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">2</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Destroyed</characteristic>
@@ -4377,10 +4377,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Venom Cannon&lt;BR&gt;&lt;BR&gt;Deathspitters&lt;BR&gt;&lt;BR&gt;Slashing Claws</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">30cm&lt;BR&gt;&lt;BR&gt;(15cm)&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP5+/AT6+&lt;BR&gt;&lt;BR&gt;Small Arms&lt;BR&gt;&lt;BR&gt;Assault Weapon</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-&lt;BR&gt;&lt;BR&gt;-&lt;BR&gt;&lt;BR&gt;+1A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Venom Cannon<BR>;Deathspitters<BR>;Slashing Claws</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">30cm<BR>;(15cm)<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP5+/AT6+<BR>;Small Arms<BR>;Assault Weapon</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-<BR>;-<BR>;+1A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Fearless, Synapse</characteristic>
       </characteristics>
     </profile>
@@ -4391,10 +4391,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">4+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">4+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Spore Pods&lt;BR&gt;&lt;BR&gt;Massive Claws</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">15cm&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">4BP&lt;BR&gt;&lt;BR&gt;Assault Weapons</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Disrupt, Fixed Forward Arc&lt;BR&gt;&lt;BR&gt;Titan Killer, +2A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Spore Pods<BR>;Massive Claws</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">15cm<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">4BP<BR>;Assault Weapons</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Disrupt, Fixed Forward Arc<BR>;Titan Killer, +2A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Commander, Fearless, Leader, Planetfall, Reinforced Armour, Skimmer, Synapse, Transport</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">6</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Flying Creature</characteristic>
@@ -4407,10 +4407,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">4+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">4+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">2x Bio-cannon&lt;BR&gt;&lt;BR&gt;Spore Cannon&lt;BR&gt;&lt;BR&gt;Monstrous Claws</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm&lt;BR&gt;&lt;BR&gt;Template&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">MW5+&lt;BR&gt;&lt;BR&gt;MW5+/AA5+&lt;BR&gt;&lt;BR&gt;Assault Weapons</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Ignore Cover&lt;BR&gt;&lt;BR&gt;Ignore Cover&lt;BR&gt;&lt;BR&gt;Macro-weapon, Titan Killer (D3), +2A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">2x Bio-cannon<BR>;Spore Cannon<BR>;Monstrous Claws</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">45cm<BR>;Template<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">MW5+<BR>;MW5+/AA5+<BR>;Assault Weapons</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">Ignore Cover<BR>;Ignore Cover<BR>;Macro-weapon, Titan Killer (D3), +2A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Commander, Fearless, Regeneration, Reinforced Armour, Skimmer, Synapse (+4), Transport</characteristic>
         <characteristic name="DC" typeId="fb51-1ee4-ea0e-41eb">4</characteristic>
         <characteristic name="Crit" typeId="3c70-22c1-1ecf-35c4">Flying Creature</characteristic>
@@ -4435,10 +4435,10 @@ Vituperator: 8 of the following units: Gargoyles, Termagants, Hormagaunts, Raven
         <characteristic name="Armour" typeId="3755f816-2110-e470-2e5f-20ba636cb7f1">5+</characteristic>
         <characteristic name="CC" typeId="affeeb83-c6db-0a8c-e7ab-688f9a83d25c">3+</characteristic>
         <characteristic name="FF" typeId="0b1a118d-1f21-3fd1-9167-471a3032e35b">5+</characteristic>
-        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Venom Cannon&lt;BR&gt;&lt;BR&gt;Scything Talons</characteristic>
-        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">30cm&lt;BR&gt;&lt;BR&gt;(contact)</characteristic>
-        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP5+/AT6+&lt;BR&gt;&lt;BR&gt;Assault Weapon</characteristic>
-        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-&lt;BR&gt;&lt;BR&gt;Macro-weapon, +1A</characteristic>
+        <characteristic name="Weapons" typeId="1160-63e7-57ca-722d">Venom Cannon<BR>;Scything Talons</characteristic>
+        <characteristic name="Range" typeId="02c3b688-b804-6ce1-b101-b7f9436877bf">30cm<BR>;(contact)</characteristic>
+        <characteristic name="Firepower" typeId="f95f7011-da77-2eed-fd80-bca6fe0f1f7d">AP5+/AT6+<BR>;Assault Weapon</characteristic>
+        <characteristic name="Notes" typeId="b8cc-b32c-b8bd-ac4a">-<BR>;Macro-weapon, +1A</characteristic>
         <characteristic name="Unit Notes" typeId="9be9-cd8c-f54b-69d7">Commander, Fearless, Jump Pack, Leader, Reinforced Armour, Synapse</characteristic>
       </characteristics>
     </profile>
